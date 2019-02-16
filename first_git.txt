@@ -2,3 +2,4 @@ Git‚Ì—ûK
 hunt
 •ÏX‚µ‚½
 .git add
+second
