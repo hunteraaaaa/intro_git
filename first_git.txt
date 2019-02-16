@@ -4,3 +4,4 @@ hunt
 .git add
 second
 git status
+.git diff
