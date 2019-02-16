@@ -1,1 +1,4 @@
-Git‚Ì—ûK hunt
+Git‚Ì—ûK 
+hunt
+•ÏX‚µ‚½
+.git add
