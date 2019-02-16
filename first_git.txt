@@ -3,3 +3,4 @@ hunt
 •ÏX‚µ‚½
 .git add
 second
+git status
